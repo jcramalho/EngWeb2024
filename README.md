@@ -7,4 +7,4 @@ Repositório que irá guardar os conteúdos desta edição da UC.
 
 - **Nome:** José Carlos Ramalho
 - **ID:** d1513
-- **Foto:** ![Fotografia](jcr.jpg)
+- **Foto:** ![Fotografia](jcr-keep.jpeg)
